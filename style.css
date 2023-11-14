@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+   }
+   
+   
+   .navbar-top {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+   }
+   
+   
+   .site-brand h1 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+   }
+   
+   
+   .side-nav-panel-left, .side-nav-panel-right {
+    margin: 0;
+    padding: 0;
+   }
+   
+   
+   .side-nav-left, .side-nav-right {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0 10px;
+   }
+   
+   
+   .slider {
+    position: relative;
+    overflow: hidden;
+   }
+   
+   
+   .slides {
+    display: none;
+   }
+   
+   
+   .slides img {
+    width: 100%;
+    height: auto;
+   }
+   
+   
+   .caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+   }
+   
+   
+   .caption h2 {
+    font-size: 36px;
+    margin: 0;
+    padding: 0;
+   }
+   
+   
+   .caption h4 {
+    font-size: 18px;
+   }
+   
+   
+   .button-default {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    display: inline-block;
+   }
+   
+   
+   .button-default:hover {
+    background-color: #555;
+   }
+   .services {
+    background-color: #fff;
+    padding: 40px 0;
+   }
+   
+   
+   .services h5 {
+    font-size: 24px;
+    margin-top: 10px;
+   }
+   
+   
+   .services p {
+    font-size: 16px;
+    color: #777;
+   }
+   
+   
+   .services .col {
+    text-align: center;
+    padding: 20px;
+   }
+   
+   
+   .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+   }
+   
+   
+   .about-us-foot h6 {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+   }
+   
+   
+   .social-media a {
+    color: #fff;
+    font-size: 20px;
+    margin: 0 10px;
+    text-decoration: none;
+   }
+   
+   
+   .social-media a:hover {
+    color: #aaa;
+   }
+   
+   
+   /* Estilo para os botões de leitura mais */
+   .button-default {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 20px;
+   }
+   
+   
+   .button-default:hover {
+    background-color: #555;
+   }
+   
